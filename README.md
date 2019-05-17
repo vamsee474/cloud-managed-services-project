@@ -11,7 +11,7 @@ Team logo:
 We as team paned to gather and work on this project on every day 4 pm 6 pm at Library. We have assigned individual task to all members.
 Roles:
 Vamsee: Designing the planning of the project, defining project vision. Creating cloud accounts. 
-Sai Prasad: Creating charts. Implementing plans
+Durga Prasad: Creating the charts and Implementing the plans Of a Project .
 Venkata: Gathering information effective plan implementations 
 Aakash: validating all the process. Designing ITIL process
 
