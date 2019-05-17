@@ -18,8 +18,6 @@ Team Members:
 Client: Prof. Dr. Case 
 
 
- 
-
 Team Communication and Participation:
 We are planning to meet our team members at the library. We will arrange a time window that is flexible to all team members.
 We are planning to share contact information through skype (IM), what’s up group or outlook mail.
@@ -67,15 +65,15 @@ i) Stakeholder inventory     	Akash Valluru
 	ii)Stakeholder detail analysis
 	Sai Manikanta Durga Prasad Vinukonda
 	iii)Tracking  Issue log	Venkata Dasari
-	Final Presentation	Venkata Dasari, Sai Manikanta Durga Prasad Vinukonda, Akash Valluru,
-Vamsee Krishna Gangapatnam
+	Final Presentation	Venkata Dasari, Sai Manikanta Durga Prasad Vinukonda, Akash Valluru,Vamsee Krishna Gangapatnam
+
 
 
 Repo link:  https://github.com/vamsee474/cloud-managed-services-project
 
 Team Signatures:
 
-S. No	Team Member Name	Signatures
+	Signatures
 1.	Sai Manikanta Durga PrasadVinukonda	 
 2.	Vamsee Krishna Gangapatnam	 
 3.	 Venkata Sai Krishna Dasari
