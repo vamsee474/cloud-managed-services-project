@@ -4,6 +4,7 @@ MILESTONE 01
 Project Title: Cloud Managed services.
 Project Description:
 Scenario: Amazon is an American multinational technology enterprise based in Seattle, Washington that focuses on e-commerce, cloud computing, digital streaming and synthetic intelligence. It is regarded one the Big Four science businesses along with Google, Apple and Facebook.
+
 Statement of need: A product based company named KForce Technology has approached us for developing a new cloud environment (AWS based), with High availability concept. KForce would like to host their e commerce websites on these cloud. Being a small-scale product based company we are have an opportunity to show what we are made of by meeting the company needs within the stipulated deadline of June 7, 2019 with an estimated budget of $ 3.5 million cost with good quality.
 Team Name: Cloud Providers.
 
@@ -15,7 +16,8 @@ Team Members:
 
 
 Client: Prof. Dr. Case 
-Team Logo:
+
+
  
 
 Team Communication and Participation:
